@@ -1,6 +1,6 @@
-# 📚 Book Haven - An E-Commerce Platform for Book Lovers
+# 📚 E-Bookopolis - An E-Commerce Platform for Book Lovers
 
-Welcome to **Book Haven**! This platform allows users to buy, rent, and wishlist books, connect with other readers, and share their thoughts through blogs. Our goal is to make book interactions accessible, engaging, and community-driven.
+Welcome to **E-Bookopolis**! This platform allows users to buy, rent, and wishlist books, connect with other readers, and share their thoughts through blogs. Our goal is to make book interactions accessible, engaging, and community-driven.
 
 ## 🚀 Project Overview
 
